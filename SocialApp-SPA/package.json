@@ -27,6 +27,7 @@
     "core-js": "^2.6.12",
     "font-awesome": "^4.7.0",
     "ngx-bootstrap": "^3.0.1",
+    "ngx-gallery": "^5.10.0",
     "rxjs": "6.0.0",
     "v1": "^1.0.0",
     "zone.js": "^0.8.29"
